@@ -2,6 +2,4 @@ remote_theme: tildehacker/minimal@tildehacker
 google_analytics: UA-156431676-1
 plugins:
   - jemoji
-use_github_avatar: true
-github_username: tildehacker
 show_description: true
