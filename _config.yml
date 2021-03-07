@@ -3,3 +3,6 @@ google_analytics: UA-156431676-1
 plugins:
   - jemoji
 show_description: true
+description: >
+  A script to enable/disable battery conservation mode in Lenovo Ideapad
+  laptops.
