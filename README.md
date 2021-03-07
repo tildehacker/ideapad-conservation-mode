@@ -4,7 +4,10 @@
 [![HitCount](https://hits.dwyl.com/tildehacker/ideapad-conservation-mode.svg)](https://hits.dwyl.com/tildehacker/ideapad-conservation-mode)
 [![start with why](https://img.shields.io/badge/start%20with-why%3F-brightgreen.svg)](https://tildehacker.com/lenovo-ideapad-battery-conservation-mode-gnu-linux)
 
-![ideapad-cm-screencast.gif](ideapad-cm-screencast.gif "ideapad-cm Screencast")
+<video autoplay loop muted playsinline>
+	<source src="ideapad-cm-screencast.webm" type="video/webm">
+	<source src="ideapad-cm-screencast.mp4" type="video/mp4">
+</video>
 
 A script to enable/disable battery conservation mode in Lenovo Ideapad laptops. :computer: :battery: :guardsman:
 
