@@ -20,7 +20,7 @@ enable this mode. On GNU/Linux, this can be
 [done](https://tildehacker.com/lenovo-ideapad-battery-conservation-mode-gnu-linux)
 manually. This script is a shortcut to enable/disable this mode.
 
-## Installation (Arch User Repository) [![AUR version](http://badge.kloud51.com/aur/v/ideapad-cm.svg)](https://aur.archlinux.org/packages/ideapad-cm)
+## Installation (Arch User Repository)
 
 `ideapad-cm` is available in the [Arch User Repository
 (AUR)](https://aur.archlinux.org/packages/ideapad-cm). The following command
