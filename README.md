@@ -1,7 +1,7 @@
 # Lenovo Ideapad battery conservation mode on GNU/Linux
 [![made-with-bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)](https://www.gnu.org/software/bash/)
 [![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
-[![HitCount](http://hits.dwyl.com/tildehacker/ideapad-conservation-mode.svg)](http://hits.dwyl.com/tildehacker/ideapad-conservation-mode)
+[![HitCount](https://hits.dwyl.com/tildehacker/ideapad-conservation-mode.svg)](https://hits.dwyl.com/tildehacker/ideapad-conservation-mode)
 [![start with why](https://img.shields.io/badge/start%20with-why%3F-brightgreen.svg)](https://tildehacker.com/lenovo-ideapad-battery-conservation-mode-gnu-linux)
 
 ![ideapad-cm-screencast.gif](ideapad-cm-screencast.gif "ideapad-cm Screencast")
